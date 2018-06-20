@@ -1,0 +1,7 @@
+#Wed May 03 15:08:33 CDT 2017
+base.0=C\:\\Users\\Arbaaz\\Desktop\\NewsGateway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e305d7bc7215e136846a008617f233ded27e7a55
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Arbaaz\\Desktop\\NewsGateway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6b5aaf12428c73edac4fa70282bbedbe5cd955a7\\classes.dex
+base.1=C\:\\Users\\Arbaaz\\Desktop\\NewsGateway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6b5aaf12428c73edac4fa70282bbedbe5cd955a7
+file.0=C\:\\Users\\Arbaaz\\Desktop\\NewsGateway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e305d7bc7215e136846a008617f233ded27e7a55\\classes.dex

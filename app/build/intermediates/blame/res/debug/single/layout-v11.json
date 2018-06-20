@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Arbaaz\\Desktop\\NewsGateway\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Arbaaz\\.android\\build-cache\\926f35a7347d5c4c7e5faeb96430d052ae325966\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arbaaz\\Desktop\\NewsGateway\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Arbaaz\\.android\\build-cache\\926f35a7347d5c4c7e5faeb96430d052ae325966\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arbaaz\\Desktop\\NewsGateway\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Arbaaz\\.android\\build-cache\\926f35a7347d5c4c7e5faeb96430d052ae325966\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arbaaz\\Desktop\\NewsGateway\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Arbaaz\\.android\\build-cache\\926f35a7347d5c4c7e5faeb96430d052ae325966\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arbaaz\\Desktop\\NewsGateway\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Arbaaz\\.android\\build-cache\\926f35a7347d5c4c7e5faeb96430d052ae325966\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arbaaz\\Desktop\\NewsGateway\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Arbaaz\\.android\\build-cache\\926f35a7347d5c4c7e5faeb96430d052ae325966\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

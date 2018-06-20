@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_1375cde6ba3c350154a67c9be71aed7f238df096\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\.android\build-cache\ebfc155f81aab187488ab7a85dc8d62a890e92c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e898ff7f17922359cc743a7bd4db13777243746d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\.android\build-cache\926f35a7347d5c4c7e5faeb96430d052ae325966\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de605d5b2095fbedc0f174c1845295440344f35e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\.android\build-cache\0e68c6f550123ac1311c90cd3f0dbf4c60954706\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c21aa0b236b86722674c1ac419cf13f391927a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\.android\build-cache\e7dabf458bebc2f218c7a37d411ca2dfd84968c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbb9f48c9555b7e6c19dcc91dca2f491a5ff24b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\.android\build-cache\65d0e9df3b16d05a75ad0a5d884e40aaf2c541f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cd38e0e451a8525235a8800e12d2fa4290b2d12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b4b7ae7cd7bce2d2d617dca58afaf0d395946aa">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6b5aaf12428c73edac4fa70282bbedbe5cd955a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1b0e9527cc7a10e7020b5e1fc6bda02532ab0049\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\.android\build-cache\d8fab2b6b859fb4cef23de6dd190ebfc7a1700ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6c5c42a1e9aef4d8464514478ef5388698afafc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\.android\build-cache\209c3ea3f139172cfc7f13dc6f88af1dbaa83a86\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed83c893a34d5b5b20747c02e096931f00aa4ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e305d7bc7215e136846a008617f233ded27e7a55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\.android\build-cache\2e834e02c796dec7085f45ffd3ac755486a0b5eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6a66368c504dbcacba9dff79b43705f40ef8313\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\.android\build-cache\42aaa715a62ecc0dd7e678e872dde0a3053244d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dddc8efd04c4a52949c74333f2a9ab13eef16609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arbaaz\.android\build-cache\17bd5491c2ded2048b66036a944bb5900341cd0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Arbaaz\Desktop\NewsGateway\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e03647a650d5b22505e09f0a19447b14b565a0e\classes.dex" />
+    </item>
+
+</items>
